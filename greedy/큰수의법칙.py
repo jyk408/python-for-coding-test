@@ -30,3 +30,4 @@ while True:
         break
     result  += second
     m -= 1 # 더할 때 마다 1씩 빼기
+#s
